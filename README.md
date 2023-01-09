@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://quine.sh/profile/divyansh1211"><img src="https://stats.quine.sh/divyansh1211/web3" alt="divyansh1211's Web3 activity" width="380px"></a>
 
 <!--
 **Divyansh1211/divyansh1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
